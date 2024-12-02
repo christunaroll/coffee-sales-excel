@@ -1,11 +1,5 @@
 ### Coffee Order Sales Data Analysis Project
 
-This repository contains a data analysis project focusing on coffee order sales. The goal of this project is to analyze and visualize various aspects of coffee sales to gain insights into customer behavior, sales trends, and product performance.
-
----
-
-### **Project Features**
-
 #### **Data Analysis Objectives**
 1. **Sales by Coffee Type**: 
    - Analyze total sales for four coffee types: *Arabica*, *Excelsa*, *Liberica*, and *Robusta*.
